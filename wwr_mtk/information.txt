@@ -1,0 +1,16 @@
+Brand: BENESSE; Model: TAB-A03-BR3;
+Hardware: MT8167
+Platform: mt8167
+File system: EXT4
+Android version: 7.0
+Firmware version: 01.06.000
+Build number: alps-mp-n0.mp13-V1.18_sts8167.tb.n_P104
+Description:  TAB-A04-BR3-user 7.0 01.06.000 01.06.000 release-keys
+Serial number: 0E0U392384
+Root: Yes
+Full memory RAM:			 0x3D878000 (984 MB)
+Full memory of ROM (EMMC_USER):		 0x3A3E00000 (14910 MB)
+Full memory of ROM (EMMC_BOOT_1):	 0x400000 (4 MB)
+Full memory of ROM (EMMC_BOOT_2):	 0x400000 (4 MB)
+Full memory of ROM (EMMC_RPMB):	 0x400000 (4 MB)
+By-name: /dev/block/platform/soc/11120000.mmc/by-name
